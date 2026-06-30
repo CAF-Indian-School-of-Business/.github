@@ -6,7 +6,7 @@ CAF is a preeminent research centre dedicated to producing cutting-edge, policy-
 
 ---
 
-## 🎯 Our Mission
+## Our Mission
 Our primary goal is to foster empirical research on financial markets and institutions, particularly in emerging economies. We focus on:
 *   **Empirical Finance:** Conducting data-driven investigations into capital markets, corporate finance, and banking systems.
 *   **Digital Public Infrastructure (DPI):** Building open-source technology frameworks and templates that support financial inclusion, security, and legal compliance.
@@ -14,9 +14,9 @@ Our primary goal is to foster empirical research on financial markets and instit
 
 ---
 
-## 🛠 Featured Projects
+## Featured Projects
 
-### 🔐 [DPDP Consent Management Registry](https://github.com/CAF-Indian-School-of-Business/consent-management)
+### [DPDP Consent Management Registry](https://github.com/CAF-Indian-School-of-Business/consent-management)
 A compliant, generic, and embeddable Digital Consent Manager system built in accordance with India's **Digital Personal Data Protection (DPDP) Act, 2023**.
 
 *   **Standard Compliance:** Full alignment with **Section 5 (Notice)**, **Section 6 (Consent & Right of Withdrawal)**, and **Section 13 (Grievance Redressal)** of the DPDP Act.
@@ -26,7 +26,7 @@ A compliant, generic, and embeddable Digital Consent Manager system built in acc
 
 ---
 
-## 📊 Core Research Focus Areas
+## Core Research Focus Areas
 | Focus Area | Description | Impact & Application |
 | :--- | :--- | :--- |
 | **Financial Inclusion** | Analysing micro-finance data and Self-Help Groups (SHGs) | Direct policy inputs for rural banking and micro-lending schemes. |
@@ -35,7 +35,7 @@ A compliant, generic, and embeddable Digital Consent Manager system built in acc
 
 ---
 
-## 📬 Contact & Collaboration
+## Contact & Collaboration
 We invite collaboration from academic researchers, financial institutions, and developers interested in digital public goods.
 
 *   **Website:** [ISB Centre for Analytical Finance](https://www.isb.edu/en/research-thought-leadership/centers-excellence/centre-for-analytical-finance.html)
