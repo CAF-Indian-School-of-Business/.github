@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="isb.png" alt="ISB Logo" width="280" />
+</p>
+
 # Centre for Analytical Finance (CAF) — Indian School of Business (ISB)
 
 Welcome to the official GitHub organization for the **Centre for Analytical Finance (CAF)** at the **Indian School of Business (ISB)**. 
