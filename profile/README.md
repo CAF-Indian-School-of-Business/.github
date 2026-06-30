@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="isb.png" alt="ISB Logo" width="280" />
+  <img src="ISB_CAF.jpg" alt="ISB Logo" width="280" />
 </p>
 
 # Centre for Analytical Finance (CAF) — Indian School of Business (ISB)
